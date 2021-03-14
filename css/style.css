@@ -1,0 +1,28 @@
+body{
+	background-color: #f2f2;
+	margin: 0;
+	padding: 0;
+}
+h1{
+	background-color: blue;
+	color: yellow;
+	border: 5px dotted red;
+}
+img{
+	width: 45%;
+}
+p{
+	border: 1px solid green;
+	background-color: yellow;
+}
+a{
+	font-size: 25px;
+	text-decoration: none;
+	margin-right: 50px;
+}
+button{
+	background-color: green;
+	padding: 20px 40px;
+	font-size: 25px;
+	color: white;
+}
